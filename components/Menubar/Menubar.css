@@ -1,0 +1,17 @@
+
+.delivery{
+  margin-right:20px;
+}
+
+.menubar-right{
+  display:flex;
+  align-items:center;
+  gap: 25px
+}
+
+.active {
+  color: tomato !important;
+}
+.dropdown-menu{
+  cursor: pointer;
+}

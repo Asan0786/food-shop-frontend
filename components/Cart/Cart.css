@@ -1,0 +1,6 @@
+.cart-item hr {
+  margin-top: 10px;
+  height: 2px;
+  background-color: white;
+  border : none;
+}
