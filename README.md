@@ -39,7 +39,7 @@ npm install
 
 ### 4️⃣ Start the application
 
-npm start
+npm run dev
 
 ---
 
