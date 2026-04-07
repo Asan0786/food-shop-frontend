@@ -1,16 +1,67 @@
-# React + Vite
+# 🍔 Food Shop Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend of a Food Ordering Web Application built using React.  
+Users can browse food items, add them to cart, and place orders.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- Browse food items
+- Add to cart
+- Place orders
+- Responsive UI
+- Connects with backend APIs
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- JavaScript
+- HTML
+- CSS
+
+
+## ⚙️ How to Run Locally
+
+### 1️⃣ Clone the repository
+
+git clone https://github.com/Asan0786/food-shop-frontend.git
+
+### 2️⃣ Navigate to project
+
+cd food-shop-frontend
+
+### 3️⃣ Install dependencies
+
+npm install
+
+### 4️⃣ Start the application
+
+npm start
+
+---
+
+## 🌐 Backend API
+
+Make sure backend is running on:
+http://localhost:8080
+
+---
+
+## 📁 Project Structure
+
+- Components → UI components
+- Pages → Main screens
+- Services → API calls
+- Assets → Images & styles
+
+
+---
+
+## 👨‍💻 Author
+
+Asan0786
+
+Your Name
